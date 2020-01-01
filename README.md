@@ -1,0 +1,2 @@
+# MYcode
+some homework 
